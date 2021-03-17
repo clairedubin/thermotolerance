@@ -1,7 +1,7 @@
 # Scripts used for "Population and comparative genetics of thermotolerance divergence between yeast species"
 
 <body>
-<b> G1 plotting: <\b>
+<b> G1 plotting: </b>
   
 <div style="margin-left: 1em;">
 G1_ESP1_plotting.ipynb: Generate plots for Figure 1 (A peak of high allele frequency in S. cerevisiae populations at the 5’ end of ESP1).
