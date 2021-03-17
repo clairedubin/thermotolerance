@@ -33,7 +33,7 @@ codon_alignment.ipynb: Generate codon-based alignments of all Scer strains (Pete
 
 muscle.sh: Bash script for alignment by MUSCLE.
 
-Packages/Software:
+<b> Packages/Software used: </b>
 
 [Biopython](https://biopython.org/)
 
