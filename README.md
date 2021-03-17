@@ -3,8 +3,10 @@
 https://bremlab.berkeley.edu/
 
 <body>
+
 <b> G1 plotting: </b> 
-  
+
+
 G1_ESP1_plotting.ipynb: Generate plots for Figure 1 (A peak of high allele frequency in S. cerevisiae populations at the 5’ end of ESP1).
 
 G1_pi_plotting.ipynb: Generate plots for Supplementary Figure 1 (Spatial distribution of allele sharing in wine/European S. cerevisiae at thermotolerance genes).
