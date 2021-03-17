@@ -1,12 +1,10 @@
-# thermotolerance
+# Scripts used for "Population and comparative genetics of thermotolerance divergence between yeast species"
 
 <body>
+<b> G1 plotting: <b>
+  G1_ESP1_plotting.ipynb: Generate plots for Figure 1 (A peak of high allele frequency in S. cerevisiae populations at the 5’ end of ESP1).
 
-Scripts used for ["Population and comparative genetics of thermotolerance divergence between yeast species"](link TBA)
-
-G1_ESP1_plotting.ipynb: Generate plots for Figure 1 (A peak of high allele frequency in S. cerevisiae populations at the 5’ end of ESP1).
-
-G1_pi_plotting.ipynb: Generate plots for Supplementary Figure 1 (Spatial distribution of allele sharing in wine/European S. cerevisiae at thermotolerance genes).
+  G1_pi_plotting.ipynb: Generate plots for Supplementary Figure 1 (Spatial distribution of allele sharing in wine/European S. cerevisiae at thermotolerance genes).
 
 codon_alignment.ipynb: Generate codon-based alignments of all Scer strains (Peter, et al 2018) with European S. paradoxus (Bergström et al., 2014) and North American S. paradoxus subpop B (Durand et al., 2019) using PAL2NAL for input into the McDonald-Kreitman test. 
 
@@ -28,7 +26,9 @@ muscle.sh: Bash script for alignment by MUSCLE.
 
 Packages/Software:
 [Biopython](https://biopython.org/)
+
 [MUSCLE](http://www.drive5.com/muscle/)
+
 [PAL2NAL](http://www.bork.embl.de/pal2nal/)
 
 https://bremlab.berkeley.edu/
