@@ -3,7 +3,7 @@
 https://bremlab.berkeley.edu/
 
 <body>
-<b> G1 plotting: </b>
+<b> G1 plotting: </b> 
   
 G1_ESP1_plotting.ipynb: Generate plots for Figure 1 (A peak of high allele frequency in S. cerevisiae populations at the 5’ end of ESP1).
 
@@ -26,7 +26,7 @@ dxy_analysis_1011pops_NASpar.ipynb: Calculate Dxy p values using a resampling te
 
 dxy_analysis_allScer_allSpar.ipynb: Calculate Dxy p values using a resampling test all S. cerevisiae strains (Peter et al., 2018) and European S. paradoxus (Bergstrom et al., 2014) + North American S. paradoxus subpopulation B (Durand et al., 2019).
 
-<b> Sequence Alignment </b>
+<b> Sequence Alignment: </b>
 
 prealignment_sequence_prep.ipynb: Generate unaligned sequence files for each combination of S. cerevisiae (Peter, et al 2018) and S. paradoxus population (Bergström et al., 2014; Durand et al., 2019) to be aligned by MUSCLE.
 
